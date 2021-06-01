@@ -4,7 +4,7 @@ using System.Text;
 
 namespace VelociHelptor
 {
-    public enum Tipo
+    public enum Tipo // Tipos de perfis do sistema de chamados
     {
         Tecnico = 1,
 
